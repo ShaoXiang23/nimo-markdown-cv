@@ -1,15 +1,15 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Daniel Guo(郭少翔)
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: guoshaoxiang@stu.ouc.edu.cn
+  text: guoshaoxiang@stu.ouc.edu.cn
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: https://shaoxiang23.github.io/
+  text: shaoxiang23.github.io
 ---
 
-# Wode **Ni**
+# Daniel Guo (郭少翔)
 
 <!--
 include contact information from the front matter
@@ -23,32 +23,31 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **Ocean University of China** `2020.9 - present`
 
 ```
-Pittsburgh, PA
+Qingdao, Shandong
 ```
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- PhD Candidate, in Computer Application Technology, Faculty of Information Science and Engineering
+- Advised by [Junyu Dong](https://it.ouc.edu.cn/djy/main.htm)
 
-### **Columbia University** `2016.9 - 2018.5`
-
-```
-New York, NY
-```
-
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### **Dickinson College** `2013.9 - 2016.5`
+### **Ocean University of China** `2017.9 - 2020.7`
 
 ```
-Carlisle, PA
+Qingdao, Shandong
 ```
 
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
+- Master’s Degree, in Software Engineering, Faculty of Information Science and Engineering
+- VisionLab, Robot Group
+
+### **Qufu Normal University** `2013.9 - 2017.7`
+
+```
+Rizhao, Shandong
+```
+
+- Bachelor’s Degree, in Computer Science, School of Information Science and Engineering
 
 ## Publications
 
