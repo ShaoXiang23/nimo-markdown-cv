@@ -9,7 +9,7 @@ homepage:
   text: shaoxiang23.github.io
 ---
 
-# Daniel Guo (郭少翔)
+## Daniel Guo (郭少翔)
 
 <!--
 include contact information from the front matter
