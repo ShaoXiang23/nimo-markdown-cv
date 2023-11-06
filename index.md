@@ -10,7 +10,7 @@ homepage:
 ---
 
 <div style="text-align: center;">
-  <span style="font-size: 20px;">Daniel Guo (郭少翔)</span>
+  <span style="font-size: 50px;">Daniel Guo (郭少翔)</span>
 </div>
 
 <!--
