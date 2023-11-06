@@ -9,7 +9,9 @@ homepage:
   text: shaoxiang23.github.io
 ---
 
-## Daniel Guo (郭少翔)
+<div style="text-align: center;">
+  <span style="font-size: 20px;">Daniel Guo (郭少翔)</span>
+</div>
 
 <!--
 include contact information from the front matter
@@ -29,7 +31,8 @@ Supported arguments:
 Qingdao, Shandong
 ```
 
-- PhD Candidate, in Computer Application Technology, Faculty of Information Science and Engineering
+- PhD Candidate, in Computer Application Technology
+- Faculty of Information Science and Engineering
 - Advised by [Junyu Dong](https://it.ouc.edu.cn/djy/main.htm)
 
 ### **Ocean University of China** `2017.9 - 2020.7`
@@ -38,7 +41,8 @@ Qingdao, Shandong
 Qingdao, Shandong
 ```
 
-- Master’s Degree, in Software Engineering, Faculty of Information Science and Engineering
+- Master’s Degree, in Software Engineering
+- Faculty of Information Science and Engineering
 - VisionLab, Robot Group
 
 ### **Qufu Normal University** `2013.9 - 2017.7`
@@ -47,7 +51,8 @@ Qingdao, Shandong
 Rizhao, Shandong
 ```
 
-- Bachelor’s Degree, in Computer Science, School of Information Science and Engineering
+- Bachelor’s Degree, in Computer Science
+- Faculty of Information Science and Engineering
 
 ## Publications
 
