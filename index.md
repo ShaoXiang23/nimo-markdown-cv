@@ -58,10 +58,10 @@ Rizhao, Shandong
 ### [**CLIP-Hand3D: Exploiting 3D Hand Pose Estimation via Context-Aware Prompting**]({{ page.homepage.url }}/assets/uist-21-recode.pdf)
 <b>Shaoxiang Guo</b>, Qing Cai, Lin Qi and Junyu Dong<br> 
 _Proceedings of the 31st ACM International Conference on Multimedia (<b>ACM MM</b>)_ <br>
-[[PDF]({{ page.homepage.url }}/assets/uist-21-recode.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/uist-21-recode.txt)]
-[[Video Preview](https://youtu.be/fMdHK9UrgQ4)]
-[[Code]()]
+[[PDF]({{ page.homepage.url }}/assets/uist-21-recode.pdf)]<br>
+[[BibTeX]({{ page.homepage.url }}/assets/uist-21-recode.txt)]<br>
+[[Video Preview](https://youtu.be/fMdHK9UrgQ4)]<br>
+[[Code]()]<br>
 
 
 ## Mentoring
