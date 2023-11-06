@@ -32,8 +32,7 @@ Qingdao, Shandong
 ```
 
 - PhD Candidate, in Computer Application Technology
-- OUC VisionLab, Robot Group
-- Advised by [Junyu Dong](https://it.ouc.edu.cn/djy/main.htm)
+- OUC VisionLab, Robot Group, Advised by Prof. [Junyu Dong](https://it.ouc.edu.cn/djy/main.htm)
 
 ### **Ocean University of China** `2017.9 - 2020.7`
 
@@ -42,8 +41,7 @@ Qingdao, Shandong
 ```
 
 - Master’s Degree, in Software Engineering
-- OUC VisionLab, Robot Group
-- Advised by [Junyu Dong](https://it.ouc.edu.cn/djy/main.htm)
+- OUC VisionLab, Robot Group, Advised by Prof. [Junyu Dong](https://it.ouc.edu.cn/djy/main.htm)
 
 ### **Qufu Normal University** `2013.9 - 2017.7`
 
@@ -56,30 +54,30 @@ Rizhao, Shandong
 ## Publications
 
 ### [**CLIP-Hand3D: Exploiting 3D Hand Pose Estimation via Context-Aware Prompting**](https://arxiv.org/pdf/2309.16140.pdf)
-<b>Shaoxiang Guo</b>, Qing Cai, Lin Qi and Junyu Dong<br> 
-_Proceedings of the 31st ACM International Conference on Multimedia (<b>ACM MM 2023</b>)_ <br>
+**Shaoxiang Guo**, Qing Cai, Lin Qi and Junyu Dong<br> 
+_Proceedings of the 31st ACM International Conference on Multimedia (**ACM MM 2023**)_ <br>
 [[PDF](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.pdf)]
 [[BibTeX](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.txt)]
 [[Video Preview](https://youtu.be/fMdHK9UrgQ4)]
 [[Code](https://github.com/ShaoXiang23/CLIP_Hand_Demo)]
 
 ### [**3D Hand Pose Estimation From Monocular RGB With Feature Interaction Module**](https://arxiv.org/pdf/2309.16140.pdf)
-<b>Shaoxiang Guo</b>, Qing Cai, Lin Qi and Junyu Dong<br> 
-_IEEE Transactions on Circuits and Systems for Video Technology (<b>IEEE T-CSVT 2022</b>)_ <br>
+**Shaoxiang Guo**, Qing Cai, Lin Qi and Junyu Dong<br> 
+_IEEE Transactions on Circuits and Systems for Video Technology (**IEEE T-CSVT 2022**)_ <br>
 [[PDF](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.pdf)]
 [[BibTeX](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.txt)]
 [[Code](https://github.com/ShaoXiang23/CLIP_Hand_Demo)]
 
 ### [**Graph-Based CNNs With Self-Supervised Module for 3D Hand Pose Estimation From Monocular RGB**](https://arxiv.org/pdf/2309.16140.pdf)
-<b>Shaoxiang Guo</b>, Eric Rigall, Lin Qi, Xinghui Dong, Haiyan Li and Junyu Dong.<br>
-_IEEE Transactions on Circuits and Systems for Video Technology (<b>IEEE T-CSVT 2021</b>)_ <br>
+**Shaoxiang Guo**, Eric Rigall, Lin Qi, Xinghui Dong, Haiyan Li and Junyu Dong.<br>
+_IEEE Transactions on Circuits and Systems for Video Technology (**IEEE T-CSVT 2021**)_ <br>
 [[PDF](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.pdf)]
 [[BibTeX](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.txt)]
 [[Code](https://github.com/ShaoXiang23/CLIP_Hand_Demo)]
 
 ### [**PS-HPSE: Pseudo Stereo for Camera Space Hand Pose and Shape Estimation from Monocular Image (Major Revision)**](https://arxiv.org/pdf/2309.16140.pdf)
-<b>Shaoxiang Guo</b>, Qing Cai, Wankun Chen, Jingyi Sun, Lin Qi, Junyu Dong and Hui Yu.<br> 
-_IEEE Transactions on Multimedia (<b>IEEE T-MM 2023</b>)_ <br>
+**Shaoxiang Guo**, Qing Cai, Wankun Chen, Jingyi Sun, Lin Qi, Junyu Dong and Hui Yu.<br> 
+_IEEE Transactions on Multimedia (**IEEE T-MM 2024**)_ <br>
 [[PDF](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.pdf)]
 [[BibTeX](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.txt)]
 [[Code](https://github.com/ShaoXiang23/CLIP_Hand_Demo)]
@@ -108,9 +106,7 @@ Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
 
 ## Service
 
-Sub-reviewer `OOPSLA'21, VL/HCC'21` <br>
-Reviewer `CHI'21, CHI'22, SIGGRAPH'22` <br>
-Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2022` <br>
+Reviewer `IJCAI, IEEE T-CSVT, PRCV, IEEE UIC, NPL` <br>
 
 <!-- ### Footer
 
