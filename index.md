@@ -62,7 +62,7 @@ _Proceedings of the 31st ACM International Conference on Multimedia (**ACM MM 20
 [[Code](https://github.com/ShaoXiang23/CLIP_Hand_Demo)]
 
 ### [**3D Hand Pose Estimation From Monocular RGB With Feature Interaction Module**](https://arxiv.org/pdf/2309.16140.pdf)
-**Shaoxiang Guo**, Qing Cai, Lin Qi and Junyu Dong<br> 
+**Shaoxiang Guo**, Eric Rigall, Yakun Ju, Junyu Dong.<br> 
 _IEEE Transactions on Circuits and Systems for Video Technology (**IEEE T-CSVT 2022**)_ <br>
 [[PDF](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.pdf)]
 [[BibTeX](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.txt)]
@@ -77,10 +77,22 @@ _IEEE Transactions on Circuits and Systems for Video Technology (**IEEE T-CSVT 2
 
 ### [**PS-HPSE: Pseudo Stereo for Camera Space Hand Pose and Shape Estimation from Monocular Image (Major Revision)**](https://arxiv.org/pdf/2309.16140.pdf)
 **Shaoxiang Guo**, Qing Cai, Wankun Chen, Jingyi Sun, Lin Qi, Junyu Dong and Hui Yu.<br> 
-_IEEE Transactions on Multimedia (**IEEE T-MM 2024**)_ <br>
+_IEEE Transactions on Multimedia (**IEEE T-MM**)_ <br>
 [[PDF](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.pdf)]
 [[BibTeX](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.txt)]
 [[Code](https://github.com/ShaoXiang23/CLIP_Hand_Demo)]
+
+### [**Incorporating lambertian priors into surface normals measurement**](https://arxiv.org/pdf/2309.16140.pdf)
+Yakun Ju, Muwei Jian, **Shaoxiang Guo**, Yingyu Wang, Huiyu Zhou and Junyu Dong.<br> 
+_IEEE Transactions on Instrumentation and Measurement (**IEEE T-IM 2021**)_ <br>
+[[PDF](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.pdf)]
+[[BibTeX](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.txt)]
+
+### [**Transmittance Surface Detection and Material Identification Using Multitask ViT-SIFT Fusion**](https://arxiv.org/pdf/2309.16140.pdf)
+Amanuel Hirpa Madessa, Junyu Dong, Eric Rigall, Qingxuan Lv, Hafiza Sadia Nawaz Nawaz, Israel Mugunga and **Shaoxiang Guo**<br> 
+_IEEE Transactions on Instrumentation and Measurement (**IEEE T-IM 2022**)_ <br>
+[[PDF](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.pdf)]
+[[BibTeX](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.txt)]
 
 ## Honors & Awards
 
@@ -94,7 +106,7 @@ _IEEE Transactions on Multimedia (**IEEE T-MM 2024**)_ <br>
 - Mobile Robotics Challenge, First Prize, ROS Summer School, Tsinghua University (Shenzhen), 2018<br> 
 - LiDAR Recognition Challenge, Second Prize, ROS Summer School, Tsinghua University (Shenzhen), 2018<br> 
 
-## Skills & Habit
+## Projects & Skills
 
 Teaching Assistant, **Foundations of Software Engineering (17-313)** `CMU, 2022` <br>
 Teaching Assistant, **Crafting Software (17-450/17-950)** `CMU, 2022` <br>
