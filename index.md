@@ -57,12 +57,33 @@ Rizhao, Shandong
 
 ### [**CLIP-Hand3D: Exploiting 3D Hand Pose Estimation via Context-Aware Prompting**](https://arxiv.org/pdf/2309.16140.pdf)
 <b>Shaoxiang Guo</b>, Qing Cai, Lin Qi and Junyu Dong<br> 
-_Proceedings of the 31st ACM International Conference on Multimedia (<b>ACM MM</b>)_ <br>
-[[PDF](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.pdf)]<br>
+_Proceedings of the 31st ACM International Conference on Multimedia (<b>ACM MM 2023</b>)_ <br>
+[[PDF](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.pdf)]
 [[BibTeX](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.txt)]
 [[Video Preview](https://youtu.be/fMdHK9UrgQ4)]
 [[Code](https://github.com/ShaoXiang23/CLIP_Hand_Demo)]
 
+### [**3D Hand Pose Estimation From Monocular RGB With Feature Interaction Module**](https://arxiv.org/pdf/2309.16140.pdf)
+<b>Shaoxiang Guo</b>, Qing Cai, Lin Qi and Junyu Dong<br> 
+_IEEE Transactions on Circuits and Systems for Video Technology (<b>IEEE T-CSVT 2022</b>)_ <br>
+[[PDF](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.pdf)]
+[[BibTeX](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.txt)]
+[[Code](https://github.com/ShaoXiang23/CLIP_Hand_Demo)]
+
+### [**Graph-Based CNNs With Self-Supervised Module for 3D Hand Pose Estimation From Monocular RGB**](https://arxiv.org/pdf/2309.16140.pdf)
+<b>Shaoxiang Guo</b>, Eric Rigall, Lin Qi, Xinghui Dong, Haiyan Li and Junyu Dong.
+_IEEE Transactions on Circuits and Systems for Video Technology (<b>IEEE T-CSVT 2021</b>)_ <br>
+[[PDF](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.pdf)]
+[[BibTeX](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.txt)]
+[[Video Preview](https://youtu.be/fMdHK9UrgQ4)]
+[[Code](https://github.com/ShaoXiang23/CLIP_Hand_Demo)]
+
+### [**PS-HPSE: Pseudo Stereo for Camera Space Hand Pose and Shape Estimation from Monocular Image (Major Revision)**](https://arxiv.org/pdf/2309.16140.pdf)
+<b>Shaoxiang Guo</b>, Qing Cai, Wankun Chen, Jingyi Sun, Lin Qi, Junyu Dong and Hui Yu.<br> 
+_IEEE Transactions on Multimedia (<b>IEEE T-MM 2023</b>)_ <br>
+[[PDF](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.pdf)]
+[[BibTeX](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.txt)]
+[[Code](https://github.com/ShaoXiang23/CLIP_Hand_Demo)]
 
 ## Mentoring
 
