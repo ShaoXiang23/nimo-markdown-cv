@@ -64,35 +64,35 @@ _Proceedings of the 31st ACM International Conference on Multimedia (**ACM MM 20
 ### [**3D Hand Pose Estimation From Monocular RGB With Feature Interaction Module**](https://arxiv.org/pdf/2309.16140.pdf)
 **Shaoxiang Guo**, Eric Rigall, Yakun Ju, Junyu Dong.<br> 
 _IEEE Transactions on Circuits and Systems for Video Technology (**IEEE T-CSVT 2022**)_ <br>
-[[PDF](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.pdf)]
+<!-- [[PDF](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.pdf)]
 [[BibTeX](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.txt)]
-[[Code](https://github.com/ShaoXiang23/CLIP_Hand_Demo)]
+[[Code](https://github.com/ShaoXiang23/CLIP_Hand_Demo)] -->
 
 ### [**Graph-Based CNNs With Self-Supervised Module for 3D Hand Pose Estimation From Monocular RGB**](https://arxiv.org/pdf/2309.16140.pdf)
 **Shaoxiang Guo**, Eric Rigall, Lin Qi, Xinghui Dong, Haiyan Li and Junyu Dong.<br>
 _IEEE Transactions on Circuits and Systems for Video Technology (**IEEE T-CSVT 2021**)_ <br>
-[[PDF](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.pdf)]
+<!-- [[PDF](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.pdf)]
 [[BibTeX](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.txt)]
-[[Code](https://github.com/ShaoXiang23/CLIP_Hand_Demo)]
+[[Code](https://github.com/ShaoXiang23/CLIP_Hand_Demo)] -->
 
 ### [**PS-HPSE: Pseudo Stereo for Camera Space Hand Pose and Shape Estimation from Monocular Image (Major Revision)**](https://arxiv.org/pdf/2309.16140.pdf)
 **Shaoxiang Guo**, Qing Cai, Wankun Chen, Jingyi Sun, Lin Qi, Junyu Dong and Hui Yu.<br> 
 _IEEE Transactions on Multimedia (**IEEE T-MM**)_ <br>
-[[PDF](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.pdf)]
+<!-- [[PDF](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.pdf)]
 [[BibTeX](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.txt)]
-[[Code](https://github.com/ShaoXiang23/CLIP_Hand_Demo)]
+[[Code](https://github.com/ShaoXiang23/CLIP_Hand_Demo)] -->
 
 ### [**Incorporating lambertian priors into surface normals measurement**](https://arxiv.org/pdf/2309.16140.pdf)
 Yakun Ju, Muwei Jian, **Shaoxiang Guo**, Yingyu Wang, Huiyu Zhou and Junyu Dong.<br> 
 _IEEE Transactions on Instrumentation and Measurement (**IEEE T-IM 2021**)_ <br>
-[[PDF](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.pdf)]
-[[BibTeX](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.txt)]
+<!-- [[PDF](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.pdf)]
+[[BibTeX](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.txt)] -->
 
 ### [**Transmittance Surface Detection and Material Identification Using Multitask ViT-SIFT Fusion**](https://arxiv.org/pdf/2309.16140.pdf)
 Amanuel Hirpa Madessa, Junyu Dong, Eric Rigall, Qingxuan Lv, Hafiza Sadia Nawaz Nawaz, Israel Mugunga and **Shaoxiang Guo**<br> 
 _IEEE Transactions on Instrumentation and Measurement (**IEEE T-IM 2022**)_ <br>
-[[PDF](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.pdf)]
-[[BibTeX](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.txt)]
+<!-- [[PDF](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.pdf)]
+[[BibTeX](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.txt)] -->
 
 ## Honors & Awards
 
