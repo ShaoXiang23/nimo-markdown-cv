@@ -11,8 +11,9 @@ phone:
   text: +86 15689933302
 ---
 
+
 <div style="text-align: center;">
-  <span style="font-size: 50px;">Daniel Guo (郭少翔)</span>
+  <span style="font-size: 40px;">Daniel Guo (郭少翔)</span>
 </div>
 
 <!--
