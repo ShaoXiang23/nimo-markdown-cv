@@ -3,10 +3,12 @@ layout: cv
 title: Daniel Guo(郭少翔)
 email:
   url: guoshaoxiang@stu.ouc.edu.cn
-  text: guoshaoxiang@stu.ouc.edu.cn
+  text: Email
 homepage:
   url: https://shaoxiang23.github.io/
-  text: shaoxiang23.github.io
+  text: Homepage
+phone:
+  text: +86 15689933302
 ---
 
 <div style="text-align: center;">
@@ -61,14 +63,14 @@ _Proceedings of the 31st ACM International Conference on Multimedia (**ACM MM 20
 [[Video Preview](https://youtu.be/fMdHK9UrgQ4)]
 [[Code](https://github.com/ShaoXiang23/CLIP_Hand_Demo)]
 
-### [**3D Hand Pose Estimation From Monocular RGB With Feature Interaction Module**](https://arxiv.org/pdf/2309.16140.pdf)
+### [**3D Hand Pose Estimation From Monocular RGB With Feature Interaction Module**](https://ieeexplore.ieee.org/abstract/document/9680673)
 **Shaoxiang Guo**, Eric Rigall, Yakun Ju, Junyu Dong.<br> 
 _IEEE Transactions on Circuits and Systems for Video Technology (**IEEE T-CSVT 2022**)_ <br>
 <!-- [[PDF](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.pdf)]
 [[BibTeX](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.txt)]
 [[Code](https://github.com/ShaoXiang23/CLIP_Hand_Demo)] -->
 
-### [**Graph-Based CNNs With Self-Supervised Module for 3D Hand Pose Estimation From Monocular RGB**](https://arxiv.org/pdf/2309.16140.pdf)
+### [**Graph-Based CNNs With Self-Supervised Module for 3D Hand Pose Estimation From Monocular RGB**](https://ieeexplore.ieee.org/abstract/document/9123498)
 **Shaoxiang Guo**, Eric Rigall, Lin Qi, Xinghui Dong, Haiyan Li and Junyu Dong.<br>
 _IEEE Transactions on Circuits and Systems for Video Technology (**IEEE T-CSVT 2021**)_ <br>
 <!-- [[PDF](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.pdf)]
@@ -82,13 +84,13 @@ _IEEE Transactions on Multimedia (**IEEE T-MM**)_ <br>
 [[BibTeX](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.txt)]
 [[Code](https://github.com/ShaoXiang23/CLIP_Hand_Demo)] -->
 
-### [**Incorporating lambertian priors into surface normals measurement**](https://arxiv.org/pdf/2309.16140.pdf)
+### [**Incorporating lambertian priors into surface normals measurement**](https://ieeexplore.ieee.org/abstract/document/9481150)
 Yakun Ju, Muwei Jian, **Shaoxiang Guo**, Yingyu Wang, Huiyu Zhou and Junyu Dong.<br> 
 _IEEE Transactions on Instrumentation and Measurement (**IEEE T-IM 2021**)_ <br>
 <!-- [[PDF](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.pdf)]
 [[BibTeX](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.txt)] -->
 
-### [**Transmittance Surface Detection and Material Identification Using Multitask ViT-SIFT Fusion**](https://arxiv.org/pdf/2309.16140.pdf)
+### [**Transmittance Surface Detection and Material Identification Using Multitask ViT-SIFT Fusion**](https://ieeexplore.ieee.org/abstract/document/9950355/)
 Amanuel Hirpa Madessa, Junyu Dong, Eric Rigall, Qingxuan Lv, Hafiza Sadia Nawaz Nawaz, Israel Mugunga and **Shaoxiang Guo**<br> 
 _IEEE Transactions on Instrumentation and Measurement (**IEEE T-IM 2022**)_ <br>
 <!-- [[PDF](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.pdf)]
@@ -96,30 +98,25 @@ _IEEE Transactions on Instrumentation and Measurement (**IEEE T-IM 2022**)_ <br>
 
 ## Honors & Awards
 
-- National Scholarship (PhD), Ministry of Education of the People's Republic of China, 2022<br> 
-- Academic Scholarship, Ocean University of China, 2020-2023<br> 
-- LEICE Chuangxin "Minzhi" Scholarship, Ocean University of China, 2023<br> 
-- Excellent Graduate Student, Ocean University of China, 2023<br> 
-- Excellent Graduate Student, Ocean University of China, 2021<br> 
-- "Internet+" Innovation and Entrepreneurship Competition, Second Prize, Ocean University of China, 2021<br> 
-- Second Class Academic Scholarship, Ocean University of China, 2018-2019<br> 
-- Mobile Robotics Challenge, First Prize, ROS Summer School, Tsinghua University (Shenzhen), 2018<br> 
-- LiDAR Recognition Challenge, Second Prize, ROS Summer School, Tsinghua University (Shenzhen), 2018<br> 
+National Scholarship (PhD), Ministry of Education of the People's Republic of China, `2022`<br> 
+Academic Scholarship, Ocean University of China, `2020, 2021, 2022, 2023`<br> 
+LEICE Chuangxin "Minzhi" Scholarship, Ocean University of China, `2023`<br> 
+Excellent Graduate Student, Ocean University of China, `2023`<br> 
+Excellent Graduate Student, Ocean University of China, `2021`<br> 
+"Internet+" Innovation and Entrepreneurship Competition, Second Prize, Ocean University of China, `2021`<br> 
+Second Class Academic Scholarship, Ocean University of China, `2018-2019`<br> 
+Mobile Robotics Challenge, First Prize, ROS Summer School, Tsinghua University (Shenzhen), `2018`<br> 
+LiDAR Recognition Challenge, Second Prize, ROS Summer School, Tsinghua University (Shenzhen), `2018`<br> 
 
 ## Projects & Skills
 
-Teaching Assistant, **Foundations of Software Engineering (17-313)** `CMU, 2022` <br>
-Teaching Assistant, **Crafting Software (17-450/17-950)** `CMU, 2022` <br>
-Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
-Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
-Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
 
 
-## Service
+
+## Service & Talk
 
 Reviewer `IJCAI, IEEE T-CSVT, PRCV, IEEE UIC, NPL` <br>
 
-<!-- ### Footer
 
+<!-- ### Footer
 Last updated: May 2013 -->
