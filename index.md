@@ -12,14 +12,7 @@ homepage:
 #   text: Phone
 ---
 
-
-
-
-
-
-
-
-<div style="text-align: center;">
+<div style="text-align: center; font-family: Arial;">
   <span style="font-size: 40px;">Daniel Guo (郭少翔)</span>
 </div>
 
