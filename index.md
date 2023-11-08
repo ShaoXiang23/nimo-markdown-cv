@@ -8,8 +8,8 @@ homepage:
   url: https://shaoxiang23.github.io/
   text: Homepage
 phone:
-  url:
-  text: "+86 15689933302"
+  url: +86 15689933302
+  text: Phone
 ---
 
 
