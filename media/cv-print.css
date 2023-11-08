@@ -159,7 +159,7 @@ h1 {
   font-size: 50pt;
   font-weight: lighter;
   position: relative;
-  line-height: 1.2em;
+  line-height: 1.5em;  /* 修改这里 */
   position: relative;
   /* left: 28%; */
 }
