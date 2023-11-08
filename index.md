@@ -12,7 +12,7 @@ homepage:
 #   text: Phone
 ---
 
-<h1 style="text-align: center; margin-top: 0; padding-top: 0; font-size: 40px;">Daniel Guo (郭少翔)</h1>
+<h1 style="text-align: center; margin-top: 0; padding-top: 0; font-size: 36px;">Daniel Guo (郭少翔)</h1>
 
 <!--
 include contact information from the front matter
