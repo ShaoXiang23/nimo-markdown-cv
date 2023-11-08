@@ -76,9 +76,9 @@ _IEEE Transactions on Circuits and Systems for Video Technology (**IEEE T-CSVT 2
 [[BibTeX](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.txt)]
 [[Code](https://github.com/ShaoXiang23/CLIP_Hand_Demo)] -->
 
-### [**PS-HPSE: Pseudo Stereo for Camera Space Hand Pose and Shape Estimation from Monocular Image (Major Revision)**](https://arxiv.org/pdf/2309.16140.pdf)
+### [**PS-HPSE: Pseudo Stereo for Camera Space Hand Pose and Shape Estimation from Monocular Image**](https://arxiv.org/pdf/2309.16140.pdf)
 **Shaoxiang Guo**, Qing Cai, Wankun Chen, Jingyi Sun, Lin Qi, Junyu Dong and Hui Yu.<br> 
-_IEEE Transactions on Multimedia (**IEEE T-MM**)_ <br>
+_IEEE Transactions on Multimedia (**IEEE T-MM**(Major Revision))_ <br>
 <!-- [[PDF](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.pdf)]
 [[BibTeX](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.txt)]
 [[Code](https://github.com/ShaoXiang23/CLIP_Hand_Demo)] -->
@@ -89,9 +89,9 @@ _IEEE Transactions on Instrumentation and Measurement (**IEEE T-IM 2021**)_ <br>
 <!-- [[PDF](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.pdf)]
 [[BibTeX](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.txt)] -->
 
-### [**Transmittance Surface Detection and Material Identification Using Multitask ViT-SIFT Fusion**](https://ieeexplore.ieee.org/abstract/document/9950355/)
+<!-- ### [**Transmittance Surface Detection and Material Identification Using Multitask ViT-SIFT Fusion**](https://ieeexplore.ieee.org/abstract/document/9950355/)
 Amanuel Hirpa Madessa, Junyu Dong, Eric Rigall, Qingxuan Lv, Hafiza Sadia Nawaz Nawaz, Israel Mugunga and **Shaoxiang Guo**<br> 
-_IEEE Transactions on Instrumentation and Measurement (**IEEE T-IM 2022**)_ <br>
+_IEEE Transactions on Instrumentation and Measurement (**IEEE T-IM 2022**)_ <br> -->
 <!-- [[PDF](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.pdf)]
 [[BibTeX](https://github.com/ShaoXiang23/nimo-markdown-cv/tree/master/assets/assets/ACM MM.txt)] -->
 
