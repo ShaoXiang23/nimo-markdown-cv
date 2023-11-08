@@ -132,7 +132,7 @@ table {
 
 body {
   font: normal normal 400;
-  font-size: 11pt;
+  font-size: 8pt;
   line-height: 1.5em;
   /*also written as...  font: normal normal 400 100%/1.5em;*/
   font-family: "Helvetica", sans-serif;
@@ -156,7 +156,7 @@ em {
 h1 {
   font-family: "Avenir Next", sans-serif;
   text-align: center;
-  font-size: 50pt;
+  font-size: 40pt;
   font-weight: lighter;
   position: relative;
   line-height: 1.5em;  /* 修改这里 */
@@ -172,7 +172,7 @@ h1 strong {
 /* Section headers */
 h2 {
   font-family: "Avenir Next", sans-serif;
-  font-size: 20pt;
+  font-size: 16pt;
   text-align: center;
   font-weight: normal;
   display: flex;
